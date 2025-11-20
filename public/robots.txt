@@ -1,0 +1,10 @@
+# robots.txt for SYD Solution Tech
+# This file tells search engine crawlers which pages they can access
+
+# Allow all crawlers to access all pages
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.sydsolutiontech.me/sitemap.xml
+
